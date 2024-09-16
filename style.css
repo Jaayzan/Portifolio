@@ -1,0 +1,28 @@
+
+body{
+background-color: rgba(58, 58, 65, 0.616);
+}
+menu{
+text-align: center;
+}
+.profile {
+    background-color: #a6c8e4;
+    padding: 30px;
+    display: flex;
+    align-items: self-end;
+        
+}
+
+.profile img {
+    border-radius: 50%;
+    border: 5px solid #2d8ae5;
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    position: absolute;
+}
+.profile .texto {
+    color: rgb(72, 68, 68);
+    margin-left: 170px;
+
+}
